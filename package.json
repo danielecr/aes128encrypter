@@ -1,6 +1,6 @@
 {
   "name": "aes128encrypter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AES 128 encrypt/decrypt classes (node+php)",
   "main": "aes128Encrypter.js",
   "scripts": {
