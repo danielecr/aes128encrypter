@@ -1,0 +1,11 @@
+{
+  "name": "aes128encrypter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aes128Encrypter.js",
+  "scripts": {
+    "test": "node testEncryption.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
